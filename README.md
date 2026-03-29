@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Himanshu Jain
 
-<!--
-**himanshu25mip10083-sys/himanshu25mip10083-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I’m a passionate **Integrated M.Tech Computer Science student** at **VIT Bhopal**, specializing in **Computational and Data Science**.  
 
-Here are some ideas to get you started:
+With a deep curiosity for technology and innovation, I enjoy exploring how **data and algorithms** can be transformed into impactful real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 💻 Love working with data and algorithms  
+- 📊 Explore data science and analytics  
+- ⚙️ Optimize code and build efficient solutions  
+- 🌱 Continuously learning new technologies  
+
+## 🧠 Mindset
+I consider myself an enthusiastic learner who thrives on **challenges and hands-on experiences**. Whether it’s diving into complex datasets, experimenting with emerging technologies, or solving real-world problems, I’m always eager to **learn, build, and grow**.
+
+## 🎯 Current Goals
+I’m actively looking for opportunities to:
+- 🤝 Collaborate on projects  
+- 💼 Work on internships  
+- 🔬 Contribute to research  
+
+## 📫 Let's Connect
+I’m always open to **new ideas, collaborations, and learning experiences** that push boundaries 🚀  
+
+- GitHub: 
+- LinkedIn: www.linkedin.com/in/himanshu-jain-0738a4391
